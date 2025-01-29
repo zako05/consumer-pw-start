@@ -25,3 +25,12 @@ cypress/movie-events.log
 
 # Pact
 pacts
+
+tags*
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/

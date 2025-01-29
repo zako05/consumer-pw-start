@@ -9,7 +9,8 @@ module.exports = {
     'plugin:import/typescript',
     'plugin:import/recommended',
     'plugin:cypress/recommended',
-    'plugin:prettier/recommended'
+    'plugin:prettier/recommended',
+    'plugin:playwright/recommended'
   ],
   parser: '@typescript-eslint/parser',
   parserOptions: {
